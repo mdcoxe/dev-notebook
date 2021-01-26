@@ -34,4 +34,5 @@
   - ```npm i jsonwebtoken bcryptjs```
 
 [Gist with Backend app.js w/Auth Template](https://gist.github.com/mdcoxe/8bdab6db9826a0bab331f2e65dff2f66.js)
+
 [Gist with Backend controllers.js w/Auth Template](https://gist.github.com/mdcoxe/ed79626f0f87bbeb6c7a6fdea8d7a0be.js)
