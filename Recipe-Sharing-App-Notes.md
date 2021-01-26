@@ -38,3 +38,4 @@
 [Gist with Backend controllers.js w/Auth Template](https://gist.github.com/mdcoxe/ed79626f0f87bbeb6c7a6fdea8d7a0be)
 
 - Build models based on needs
+- Test authorization/authentication, routes and models with postman.  If successful continue onto frontend.
