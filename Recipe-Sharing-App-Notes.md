@@ -6,7 +6,7 @@
   - Express
   - MongoDB
 - Dependencies
-  - Axios
+  - ~~Axios~~
   - Cors
   - DotENV
   - Express 
