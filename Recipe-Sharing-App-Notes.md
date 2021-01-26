@@ -32,4 +32,5 @@
   - ```npm i -D nodemon```
     - Add start and dev scripts to package.json
   - ```npm i jsonwebtoken bcryptjs```
-  
+
+[Gist with Backend app.js Template](https://gist.github.com/mdcoxe/8bdab6db9826a0bab331f2e65dff2f66.js)
