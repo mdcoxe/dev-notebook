@@ -1,4 +1,4 @@
-# Recipe Sharing App
+# MERRNN App Cheetsheet
 ## Technologies
 - MERN Stack
   - React & React Native
@@ -6,7 +6,6 @@
   - Express
   - MongoDB
 - Dependencies
-  - ~~Axios~~
   - Cors
   - DotENV
   - Express 
@@ -53,4 +52,14 @@
   ```yarn start```
   - Yarn start opens expo window
     - On expo window, localhost:19002, run emulator/simulator/web browser to view live changes to mobile and browser environments
+
+#### Suggested Dependencies
+- react-native-paper
+- react-native-elements
+- @react-navigation/native
+- @react-navigation/stack
+
+#### Tips / Don't forget
+- 10.0.2.2 for android
+- 127.0.0.1 for iOS
 
