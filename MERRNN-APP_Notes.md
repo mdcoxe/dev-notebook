@@ -28,7 +28,7 @@
 ### CLI
   - ```npm init -y```
 ### Dependencies
-  - ```npm i dotenv cors express mongoose axios```
+  - ```npm i dotenv cors express mongoose```
   - ```npm i -D nodemon```
     - Add start and dev scripts to package.json
   - ```npm i jsonwebtoken bcryptjs```
