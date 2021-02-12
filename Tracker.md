@@ -21,3 +21,4 @@
 
 2/11/21
 - Implementing k6.io performance tests on treetracker api(smaller less code than wallet api).  starting with basic provided scripts to understand the process and how the api works.  Once fine tuned, swapping over to wallet api to try out on the dev environment.
+- Ended up running into issues attempting to run tests locally.  Found I can use postman to run k6 test via the test server.  Although not as customizable, I was pretty impressed with what it can do...Out put of the detailed report was upwards of 50k lines.  The summary is more managable, probably all that is needed unless chasing down an issue with performance.
