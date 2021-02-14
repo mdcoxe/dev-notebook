@@ -1,7 +1,7 @@
 ## Daily tracker
 2/13/21
 - Started a refresher on Ruby.  Working through the beginnings via [The Odin Project](theodinproject.com)
-
+- Notes stored in a github [gist]https://gist.github.com/mdcoxe/073ce2eab72a33515ef5a34c8b6eaada)
 
 2/12/21
 - Spent more time reading through k6 documentation and trying out different scripts to see how they interacted with the greenstand wallet api.  Working through building a script outside of the postman to k6 yaml conversion.  
