@@ -1,4 +1,7 @@
 ## Daily tracker
+2/14/21
+- Reading over ruby basic data types.  THe Odin Project gives quite a few strong resources to really dive into the subject...tons of reading.  
+
 2/13/21
 - Started a refresher on Ruby.  Working through the beginnings via [The Odin Project](theodinproject.com)
 - Notes stored in a github [gist](https://gist.github.com/mdcoxe/073ce2eab72a33515ef5a34c8b6eaada)
