@@ -1,4 +1,10 @@
 ## Daily tracker
+2/17/21
+- Build basic API with one to many relationship between the models with ruby on rails and postgresql using notes from GA.  Was able to get data showing in browser
+
+2/16/21
+- Tons of readings on ruby background...Highly recommend Odin...the amount of good resources could have me reading books for weeks(already spent a few days mostly reading.
+
 2/14/21
 - Reading over ruby basic data types.  THe Odin Project gives quite a few strong resources to really dive into the subject...tons of reading.  
 
