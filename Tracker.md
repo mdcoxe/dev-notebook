@@ -1,4 +1,10 @@
 ## Daily tracker
+2/19/21
+- More focus on k6.  Working through the different tests GReenstand wants to get results on
+
+2/18/21
+- Ton of focus on k6 - rebuilding scripts, gettting rid of the postman bloat, cleaning up the auth side
+
 2/17/21
 - Build basic API with one to many relationship between the models with ruby on rails and postgresql using notes from GA.  Was able to get data showing in browser
 
