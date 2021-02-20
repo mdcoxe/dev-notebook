@@ -2,7 +2,7 @@
 
 [K6 Notes](https://gist.github.com/mdcoxe/0d1e208238689ee90c71cfaec108fe6d)
 
-Successful smoke-test of Greenstands wallet API
+## Successful smoke-test of Greenstands wallet API
 - The options block:
 ``` 
 export let options = {
@@ -33,3 +33,7 @@ export default () => {
 ```
 - Results shown in Grafana
 ![](https://imgur.com/m18hZSe.png)
+
+## Load test 
+- Results shown in Grafana
+![](https://imgur.com/Gf7FyNH.png)
