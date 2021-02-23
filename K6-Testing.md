@@ -1,5 +1,9 @@
 # K6 Testing notes/trials/experiments
 
+### Run command
+``` k6 run --out influxdb=http://localhost:8086/<db name> script.js ```
+--out tag indicates output to influxDB
+
 [K6 Notes](https://gist.github.com/mdcoxe/0d1e208238689ee90c71cfaec108fe6d)
 
 ## Successful smoke-test of Greenstands wallet API
