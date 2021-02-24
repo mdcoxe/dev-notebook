@@ -4,8 +4,8 @@
 - Fixed the load test check values for greenstand k6 load test...now results in a pass/fail based on code 201 or code 500 (only codes popping up at the moment)
 
 2/23/21
--Dev roundtable with Greenstand.
--Worked through and cleaned up a lot of my code with the k6 testing for greenstand, starting to get a handle on what is needed and how to output that data.
+- Dev roundtable with Greenstand.
+- Worked through and cleaned up a lot of my code with the k6 testing for greenstand, starting to get a handle on what is needed and how to output that data.
 
 2/22/21
 - Interview prep, then tech interview with local company.  Reviewed more ruby.
