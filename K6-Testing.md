@@ -38,6 +38,19 @@ export default () => {
 - Results shown in Grafana
 ![](https://imgur.com/m18hZSe.png)
 
-## Load test 
+## Stepped Load test 
 - Results shown in Grafana
 ![](https://imgur.com/Gf7FyNH.png)
+
+## Load Test
+``` stages: [
+        { duration: '1m', target: 40 }, // ramp up
+        { duration: '5m', target: 40 }, // peak
+        { duration: '1m', target: 0 }, // ramp down
+    ],
+    thresholds: {
+        http_req_duration: ['p(99)<1500'],//Set failure treshold at 1.5s
+    }, 
+```
+![](https://imgur.com/kwH4Hkw.png)
+
