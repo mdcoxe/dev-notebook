@@ -1,4 +1,7 @@
 ## Daily tracker
+2/25/21-3/5/21
+- Spent minimum of 4 hours per day working on Udemy course NodeJS API Masterclass with Express and MongoDB by Brad Traversy.  Completed course on 3/5/21.  Now figuring out how to implement what I learned into rebuilding Scrumtious into a real world app instead of a class project.
+
 2/24/21
 - An hour of practice algorithms on HackerRank
 - Fixed the load test check values for greenstand k6 load test...now results in a pass/fail based on code 201 or code 500 (only codes popping up at the moment)
