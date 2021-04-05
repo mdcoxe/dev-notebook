@@ -1,4 +1,10 @@
 ## Daily tracker
+3/23/21-Present
+- Working wiht GA to create another project for the portfolio and learn new skills. 
+
+3/6/21-3/22/21
+- Took 2 courses on using the shopify api and using the cms.  Built 2 sites, one portfolio ready.  Also dove deeper into React and put Chakra-UI to the test.
+
 2/25/21-3/5/21
 - Spent minimum of 4 hours per day working on Udemy course NodeJS API Masterclass with Express and MongoDB by Brad Traversy.  Completed course on 3/5/21.  Now figuring out how to implement what I learned into rebuilding Scrumtious into a real world app instead of a class project.
 
