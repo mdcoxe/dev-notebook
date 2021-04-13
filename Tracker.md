@@ -1,5 +1,12 @@
 ## Daily tracker
-3/23/21-Present
+4/8/21 
+- Started learning position as intern with Greenstand.  Working with PostgreSQL, DBeaver and getting more experience using ssh and running scripts in production environment.  
+
+4/1/21- Present
+- Working as a frontend engineer intern for Instra.AI building a React Native app to handle the frontend of a machine learning app.  
+- Using Expo, Tailwind CSS and React Native
+
+3/23/21-4/1/21
 - Working wiht GA to create another project for the portfolio and learn new skills. 
 
 3/6/21-3/22/21
